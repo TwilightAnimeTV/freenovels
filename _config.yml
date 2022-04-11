@@ -3,7 +3,7 @@ layout: page
 title: Blogging
 permalink: /index/
 ---
-layout: post
+layout: page
 title: page2
-permalink: /index
+permalink: /page1
 published: true
