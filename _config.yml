@@ -3,3 +3,6 @@ layout: page
 title: Blogging
 permalink: /index/
 ---
+layout: page
+title: page2
+permalink: /page1/
